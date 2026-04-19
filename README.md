@@ -1,0 +1,2 @@
+# RidGadget
+website tentang hp
